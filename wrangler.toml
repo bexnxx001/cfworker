@@ -1,0 +1,3 @@
+name = "cfworker-tr-vl" # change your name worker
+main = "_worker.js" # main file (don't change)
+compatibility_date = "2023-05-26"
